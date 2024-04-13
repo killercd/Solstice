@@ -1,0 +1,5 @@
+scapy
+colorama
+netfilterqueue
+fire
+python-whois
